@@ -1,0 +1,16 @@
+name: "exemplo_distill"
+title: "Blog de exemplo com distill"
+description: |
+  Blog de exemplo com distill
+output_dir: "docs"
+navbar:
+  left:
+    - icon: "fab fa-chrome"
+      href: https://curso-r.com/
+  right:
+    - icon: "fas fa-home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
+theme: custom.css
