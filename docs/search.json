@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n codigo\n\n\n\n",
-      "last_modified": "2021-04-01T20:24:47-03:00"
+      "last_modified": "2021-04-01T20:32:11-03:00"
     },
     {
       "path": "index.html",
       "title": "Blog de exemplo com distill",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-01T20:24:47-03:00"
+      "last_modified": "2021-04-01T20:32:12-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
